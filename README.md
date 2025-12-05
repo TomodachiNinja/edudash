@@ -93,15 +93,16 @@ NODE_ENV=development
 2. Run the SQL schema from `backend/SUPABASE_SETUP.md`
 3. Copy your project URL and anon key to `.env`
 
-### 4️⃣ Run the Application
+### 4️⃣ Access the Application
 
-**Frontend** (http://localhost:5173)
+**Live Demo**: [https://edudashai.vercel.app](https://edudashai.vercel.app)
+
+**Local Development**:
 ```bash
+# Frontend
 npm run dev
-```
 
-**Backend** (http://localhost:5000)
-```bash
+# Backend
 cd backend
 npm run dev
 ```
