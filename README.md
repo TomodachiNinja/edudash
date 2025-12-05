@@ -9,6 +9,9 @@
 [![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/)
 [![Vite](https://img.shields.io/badge/Vite-6.2.0-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?logo=vercel&logoColor=white)](https://edudashai.vercel.app)
+
+### 🌐 [Live Demo](https://edudashai.vercel.app)
 
 [Features](#-features) • [Tech Stack](#-tech-stack) • [Quick Start](#-quick-start) • [Setup](#️-setup) • [API](#-api-endpoints)
 
