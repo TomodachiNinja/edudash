@@ -1,0 +1,7 @@
+{
+  "name": "EduDash",
+  "description": "A comprehensive educational platform featuring a high-conversion landing page and a feature-rich student dashboard for tracking progress and accessing courses.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
